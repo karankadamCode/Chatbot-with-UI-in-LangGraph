@@ -255,7 +255,7 @@ Note:
 ### Start the Streamlit UI
 
 ```bash
-streamlit run streamlit_app.py
+streamlit run frontend.py
 ```
 
 Open the URL shown in terminal (usually `http://localhost:8501`).
